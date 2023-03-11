@@ -1,2 +1,3 @@
-# FoodStyles
-Analyzing restaurants' cuisine, ratings, prices, locations data and suggesting business decisions via python
+# Food_Styles
+- Analyzing restaurants' cuisine, ratings, prices, locations data and 
+- Providing business-specific decisions and suggestions
